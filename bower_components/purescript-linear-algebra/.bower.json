@@ -1,0 +1,37 @@
+{
+  "name": "purescript-linear-algebra",
+  "homepage": "https://github.com/klangner/purescript-linear-algebra",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klangner/purescript-linear-algebra.git"
+  },
+  "description": "Linear Algebra. Matrices, vector spaces etc.",
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.0.0",
+    "purescript-arrays": "^4.0.1",
+    "purescript-globals": "^3.0.0",
+    "purescript-tuples": "^4.0.0"
+  },
+  "devDependencies": {
+    "purescript-assert": "^3.0.0",
+    "purescript-console": "^3.0.0",
+    "purescript-psci-support": "^3.0.0"
+  },
+  "version": "0.4.0",
+  "_release": "0.4.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.4.0",
+    "commit": "ecccb6850790b2d63884ebc63399703b7359a132"
+  },
+  "_source": "https://github.com/klangner/purescript-linear-algebra.git",
+  "_target": "^0.4.0",
+  "_originalSource": "purescript-linear-algebra"
+}
